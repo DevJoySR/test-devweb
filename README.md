@@ -25,3 +25,31 @@ Ce projet est un site web simple développé dans le cadre d'une formation en d�
 ---
 
 ## 📁 Structure du projet
+
+test-devweb/
+├── index.html # Page d’accueil
+├── style.css # Feuille de style principale
+├── script.js # Script JavaScript principal
+└── README.md # Ce fichier
+
+---
+
+## 📸 Aperçu
+
+---
+
+## 🌍 Mise en ligne
+
+Ce site est accessible via GitHub Pages :  
+👉 [https://DevJoySR.github.io/test-devweb/](https://DevJoySR.github.io/test-devweb/)
+
+---
+
+## 🔧 À faire
+
+---
+
+## 📜 Licence
+
+Projet librement réutilisable dans un contexte d'apprentissage.  
+© 2025 DevJoySR
